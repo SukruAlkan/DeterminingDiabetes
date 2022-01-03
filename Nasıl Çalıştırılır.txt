@@ -1,0 +1,3 @@
+çalıştırmak için
+cd '.\django\mysite\'
+python manage.py runserver
